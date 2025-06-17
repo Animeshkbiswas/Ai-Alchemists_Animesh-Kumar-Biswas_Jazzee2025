@@ -8,7 +8,7 @@
 ## 🚀 Live Demo
 
 🔗 **[Try the Live Prototype](https://lung-lens.vercel.app)**  
-🧠 **[Hugging Face Model API](https://api-inference.huggingface.co/models/asutoshp10/Lungs-disease)**  
+🧠 **[Hugging Face Model API](https://huggingface.co/spaces/asutoshp10/Lungs-space/tree/main)**  
 📦 **[Figma UI Design](https://www.figma.com/design/As2nZvAjHGS5RWFWVl4hBF/LungLens?t=uHrEO4HMXtEj1h0j-0)**
 📄 **[Project Report / Proposal](https://github.com/Animeshkbiswas/Ai-Alchemists_Animesh-Kumar-Biswas_Jazzee2025/blob/main/Ai%20Alchemists_Animesh%20Kumar%20Biswas_Jazzzee2025_Document.pdf))** 
 📺 **[YouTube Demo Video](https://www.youtube.com/watch?v=dbXbSNWDIcA)**
