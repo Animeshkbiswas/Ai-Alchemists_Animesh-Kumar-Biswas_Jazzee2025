@@ -11,7 +11,7 @@
 🧠 **[Hugging Face Model API](https://huggingface.co/spaces/asutoshp10/Lungs-space/tree/main)**  
 📦 **[Figma UI Design](https://www.figma.com/design/As2nZvAjHGS5RWFWVl4hBF/LungLens?t=uHrEO4HMXtEj1h0j-0)**
 📄 **[Project Report / Proposal](https://github.com/Animeshkbiswas/Ai-Alchemists_Animesh-Kumar-Biswas_Jazzee2025/blob/main/Ai%20Alchemists_Animesh%20Kumar%20Biswas_Jazzzee2025_Document.pdf))** 
-📺 **[YouTube Demo Video](https://www.youtube.com/watch?v=dbXbSNWDIcA)**
+📺 **[YouTube Demo Video](https://youtu.be/PoCcgYYRe6g)**
 ---
 
 ## 🧠 Problem Statement
