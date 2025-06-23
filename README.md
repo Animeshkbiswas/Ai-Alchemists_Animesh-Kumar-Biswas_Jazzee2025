@@ -4,7 +4,8 @@
 > A GenAI-powered diagnostic assistant to detect tuberculosis, pneumonia, and lung cancer from chest X-rays using Vision Transformers and OpenAI GPT.
 
 ---
-
+##  What we have changed?
+We have clearly demonstrated how our approach stands apart from existing methods and outlined a comprehensive plan for implementing our idea. Additionally, by incorporating a continual learning framework, our model is designed to seamlessly adapt to new datasets from the medical industry, ensuring ongoing relevance and improved performance over time.
 ## 🚀 Live Demo
 
 🔗 **[Try the Live Prototype](https://lung-lens.vercel.app)**  
